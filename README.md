@@ -1,4 +1,4 @@
-# NeonAbyss Launcher — Download and Installation Guide
+# NeonAbyss Launcher
 
 ## Here you can download launcher, join my discord server for license!
 
