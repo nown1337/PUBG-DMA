@@ -8,7 +8,7 @@
 
 ## Launch Requirements
 
-| Game PC | Windows 10 / 11 (64-bit) |
+| Game PC |
 | Second PC |
 | DMA Card |
 
