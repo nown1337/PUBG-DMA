@@ -6,7 +6,7 @@
 
 ---
 
-## Launch Requirements
+## Launch Requirements:
 
 | Game PC |
 | Second PC |
