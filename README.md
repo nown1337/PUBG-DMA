@@ -1,6 +1,6 @@
 # NeonAbyss Launcher
 
-## Here you can download launcher, join my discord server for license!
+> You can obtain a license key from the [NeonAbyss discord server](https://discord.gg/N8RfW24Jn9)
 
 **Discord:** [Join the NeonAbyss server](https://discord.gg/N8RfW24Jn9)
 
@@ -11,10 +11,6 @@
 | Game PC |
 | Second PC |
 | DMA Card |
-
----
-
-> You can obtain a license key from the NeonAbyss discord server
 
 ---
 
