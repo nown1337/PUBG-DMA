@@ -18,5 +18,5 @@
 
 ---
 
-## If you have any question, you can open ticket on discord server.
+## If you have any question, you can open ticket on discord server
 https://discord.gg/N8RfW24Jn9
