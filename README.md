@@ -21,7 +21,7 @@ Keys are distributed exclusively through our official community server.
 
 ## ⚙️ Launch Requirements
 
-This software is designed for **Dual-PC DMA**.
+This software is designed for **DMA**.
 
 | Component | Requirement |
 | :--- | :--- |
