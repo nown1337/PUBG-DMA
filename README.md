@@ -4,7 +4,7 @@ Welcome to the **NeonAbyss** repository. This launcher requires specific hardwar
 
 ---
 
-## 🔑 License Key
+## 🔑 License Key:
 
 To access the software, you must obtain a unique license key. 
 Keys are distributed exclusively through our official community server.
@@ -19,7 +19,7 @@ Keys are distributed exclusively through our official community server.
 
 ---
 
-## ⚙️ Launch Requirements
+## ⚙️ Launch Requirements:
 
 This software is designed for **DMA**.
 
@@ -31,7 +31,7 @@ This software is designed for **DMA**.
 
 ---
 
-## 🆘 Support
+## 🆘 Support:
 
 If you have any questions or need assistance with the setup:
 1. Join our [Discord Server](https://discord.gg/N8RfW24Jn9).
