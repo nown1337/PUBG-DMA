@@ -19,7 +19,7 @@ Keys are distributed exclusively through our official community server.
 
 ---
 
-## ⚙️ Launch Requirements
+## ⚙️ Launch Requirements:
 
 This software is designed for **DMA**.
 
