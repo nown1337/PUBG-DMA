@@ -1,4 +1,4 @@
-# 🌌 NeonAbyss Launcher:
+# 🌌 NeonAbyss Launcher
 
 Welcome to the **NeonAbyss** repository. This launcher requires specific hardware and authorization to operate.
 
