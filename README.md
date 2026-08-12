@@ -4,7 +4,7 @@ Welcome to the **NeonAbyss** repository. This launcher requires specific hardwar
 
 ---
 
-## 🔑 License Key:
+## 🔑 License Key
 
 To access the software, you must obtain a unique license key. 
 Keys are distributed exclusively through our official community server.
