@@ -1,4 +1,4 @@
-# UPDATED 11.10.2026 
+# UPDATED 22.11.2026 
 # 🌌 NeonAbyss Launcher
 
 Welcome to the **NeonAbyss** repository. This launcher requires specific hardware and authorization to operate.
